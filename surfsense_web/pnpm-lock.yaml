@@ -162,8 +162,8 @@ importers:
         specifier: ^0.11.0
         version: 0.11.0(@tanstack/query-core@5.90.7)(@tanstack/react-query@5.90.7(react@19.2.3))(jotai@2.15.1(@types/react@19.1.8)(react@19.2.3))(react@19.2.3)
       lucide-react:
-        specifier: ^0.477.0
-        version: 0.477.0(react@19.2.3)
+        specifier: ^0.561.0
+        version: 0.561.0(react@19.2.3)
       motion:
         specifier: ^12.23.22
         version: 12.23.22(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
@@ -4391,8 +4391,8 @@ packages:
     peerDependencies:
       react: ^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0-rc
 
-  lucide-react@0.477.0:
-    resolution: {integrity: sha512-yCf7aYxerFZAbd8jHJxjwe1j7jEMPptjnaOqdYeirFnEy85cNR3/L+o0I875CYFYya+eEVzZSbNuRk8BZPDpVw==}
+  lucide-react@0.561.0:
+    resolution: {integrity: sha512-Y59gMY38tl4/i0qewcqohPdEbieBy7SovpBL9IFebhc2mDd8x4PZSOsiFRkpPcOq6bj1r/mjH/Rk73gSlIJP2A==}
     peerDependencies:
       react: ^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0
 
@@ -11064,7 +11064,7 @@ snapshots:
     dependencies:
       react: 19.2.3
 
-  lucide-react@0.477.0(react@19.2.3):
+  lucide-react@0.561.0(react@19.2.3):
     dependencies:
       react: 19.2.3
 
